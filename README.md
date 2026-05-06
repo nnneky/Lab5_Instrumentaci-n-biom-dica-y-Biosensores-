@@ -210,3 +210,117 @@ Bombas TCI
 Las bombas TCI (Target Controlled Infusion) son sistemas avanzados capaces de calcular automáticamente la dosis necesaria para alcanzar concentraciones específicas del medicamento en sangre o tejido. Son utilizadas especialmente en anestesia intravenosa total.
 Bombas elastoméricas
 Las bombas elastoméricas funcionan mediante presión mecánica generada por un reservorio elástico y son utilizadas principalmente para analgesia postoperatoria e infusiones prolongadas.
+
+
+## Preguntas para la discusión : 
+
+Pregunta 1: ¿Qué tipos de anestésicos son los más usados en cirugía?
+Los anestésicos más utilizados en cirugía pueden clasificarse en anestésicos inhalados, anestésicos intravenosos, analgésicos opioides y relajantes musculares. La selección de cada uno depende del tipo de procedimiento quirúrgico, la duración de la cirugía, el estado clínico del paciente y la técnica anestésica empleada.
+Anestésicos inhalados
+Son administrados mediante la máquina de anestesia en forma de vapor mezclado con gases respiratorios. Se utilizan principalmente para mantener la anestesia general durante el procedimiento quirúrgico.
+Los más utilizados son:
+
+
+- Sevoflurano.
+- Isoflurano.
+- Desflurano.
+- Óxido nitroso.
+
+
+El sevoflurano es uno de los más empleados debido a que produce una inducción y recuperación rápida, además de generar menor irritación respiratoria.
+Anestésicos intravenosos
+Son administrados directamente al torrente sanguíneo y se utilizan especialmente para inducir anestesia o mantener anestesia intravenosa total (TIVA).
+Los más comunes son:
+
+
+- Propofol.
+- Ketamina.
+- Etomidato.
+- Tiopental.
+
+
+El propofol es ampliamente utilizado debido a su rápida acción, corta duración y recuperación controlada.
+Analgésicos opioides
+Estos medicamentos ayudan a controlar el dolor durante y después de la cirugía.
+Los más utilizados son:
+
+
+- Fentanilo.
+- Remifentanilo.
+- Morfina.
+- Sufentanilo.
+
+
+El fentanilo y el remifentanilo son muy usados en anestesia debido a su alta potencia y rápida acción.
+Relajantes musculares
+Permiten facilitar la intubación y reducir el movimiento muscular durante la cirugía.
+Los más utilizados son:
+
+
+- Rocuronio.
+- Vecuronio.
+- Cisatracurio.
+- Succinilcolina.
+
+
+Estos medicamentos se administran junto con anestesia general y requieren monitoreo constante de la ventilación del paciente.
+
+Pregunta 2: ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?
+La máquina de anestesia WATO EX-35 corresponde a una versión más avanzada en comparación con la WATO EX-20, incorporando mejoras tecnológicas orientadas a optimizar la seguridad, monitoreo y soporte ventilatorio del paciente durante procedimientos quirúrgicos.
+Una de las principales diferencias se encuentra en el sistema de ventilación. La WATO EX-35 posee modos ventilatorios más avanzados y precisos, permitiendo una mejor adaptación a pacientes pediátricos, neonatales y adultos. Además, ofrece un control más sofisticado sobre parámetros respiratorios como volumen tidal, presión inspiratoria y compensación de fugas.
+Otra diferencia importante corresponde al sistema de monitoreo. La EX-35 integra pantallas de mayor resolución y capacidad de visualización simultánea de curvas respiratorias, tendencias fisiológicas y parámetros ventilatorios en tiempo real. Esto facilita la supervisión clínica y mejora la capacidad de respuesta ante alarmas o alteraciones fisiológicas.
+En términos de seguridad, la EX-35 incorpora sistemas más avanzados de autodiagnóstico, monitoreo de gases y detección de fallas. También cuenta con mejores mecanismos de compensación automática y mayor integración electrónica entre sus subsistemas.
+Las principales mejoras del modelo EX-35 frente al EX-20 incluyen:
+
+
+- Mayor capacidad de monitoreo.
+- Modos ventilatorios más avanzados.
+- Mejor precisión en ventilación mecánica.
+- Pantalla más moderna e interactiva
+- Mayor automatización de pruebas del sistema.
+- Mejor integración de alarmas y sistemas de seguridad.
+- Compatibilidad con monitoreo más especializado.
+
+
+Además, el modelo EX-35 suele incorporar interfaces más intuitivas y capacidades de conectividad hospitalaria superiores, permitiendo integración con redes clínicas y sistemas de información biomédica. Esto lo convierte en un equipo más adecuado para entornos quirúrgicos modernos y procedimientos de alta complejidad.
+
+
+¿Cuáles son los tipos de bombas de infusión que pueden utilizarse junto con las máquinas de anestesia?
+
+Las bombas de infusión son dispositivos utilizados para administrar medicamentos y fluidos de manera precisa y controlada durante procedimientos anestésicos. Estas bombas complementan el funcionamiento de la máquina de anestesia al permitir el suministro continuo de sedantes, analgésicos, relajantes musculares y medicamentos vasoactivos.
+
+Bombas volumétricas
+
+Las bombas volumétricas administran grandes volúmenes de líquidos mediante un sistema electrónico de control de flujo. Son utilizadas principalmente para hidratación intravenosa y administración continua de medicamentos.
+
+Bombas de jeringa
+
+Las bombas de jeringa utilizan una jeringa controlada mecánicamente para suministrar pequeños volúmenes con alta precisión. Son ampliamente utilizadas en anestesia para administrar medicamentos como:
+
+- Propofol.
+- Fentanilo.
+- Remifentanilo.
+- Vasopresores.
+- Bombas PCA
+
+Las bombas PCA (Patient Controlled Analgesia) permiten que el paciente administre dosis controladas de analgésicos dentro de límites programados previamente por el personal médico.
+
+Bombas TCI
+
+Las bombas TCI (Target Controlled Infusion) son sistemas avanzados capaces de calcular automáticamente la dosis necesaria para alcanzar concentraciones específicas del medicamento en sangre o tejido. Son utilizadas especialmente en anestesia intravenosa total.
+
+Bombas elastoméricas
+
+Las bombas elastoméricas funcionan mediante presión mecánica generada por un reservorio elástico y son utilizadas principalmente para analgesia postoperatoria e infusiones prolongadas.
+
+## Referencias  : 
+
+- Dosch, M. P. (2005). The anesthesia machine. Elsevier Health Sciences.
+- Dondelinger, R. M. (2004). Anesthesia machines. Biomedical Instrumentation & Technology, 38(6), 445–449.
+- Fischler, I. S., Kaschub, C. E., Lizdas, D. E., & Lampotang, S. (2008). Understanding of anesthesia machine function is enhanced with a transparent reality simulation. Simulation in Healthcare, 3(1), 26–32. https://doi.org/10.1097/SIH.0b013e31816366d3
+- Sherwin, M. A., & Eisenkraft, J. B. (2020). Anesthesia hazards: What is the role of the anesthesia machine? International Anesthesiology Clinics, 58(1), 27–31. https://doi.org/10.1097/AIA.0000000000000264
+- Mindray. (s.f.). WATO EX-20 Service Manual.
+- Mindray. (s.f.). WATO EX-35 Anesthesia Workstation Technical Documentation.
+- Miller, R. D. (2015). Miller’s anesthesia (8th ed.). Elsevier.
+- Barash, P. G., Cullen, B. F., & Stoelting, R. K. (2017). Clinical anesthesia (8th ed.). Wolters Kluwer.
+- Morgan, G. E., Mikhail, M. S., & Murray, M. J. (2018). Clinical anesthesiology (6th ed.). McGraw-Hill Education.
