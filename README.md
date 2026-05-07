@@ -292,31 +292,21 @@ Además, el modelo EX-35 suele incorporar interfaces más intuitivas y capacidad
 
 ¿Cuáles son los tipos de bombas de infusión que pueden utilizarse junto con las máquinas de anestesia?
 
-Las bombas de infusión son dispositivos utilizados para administrar medicamentos y fluidos de manera precisa y controlada durante procedimientos anestésicos. Estas bombas complementan el funcionamiento de la máquina de anestesia al permitir el suministro continuo de sedantes, analgésicos, relajantes musculares y medicamentos vasoactivos.
 
-Bombas volumétricas
 
-Las bombas volumétricas administran grandes volúmenes de líquidos mediante un sistema electrónico de control de flujo. Son utilizadas principalmente para hidratación intravenosa y administración continua de medicamentos.
+Las máquinas de anestesia modernas utilizan principalmente bombas de infusión de tipo volumétrico y bombas de jeringa para la administración controlada de medicamentos intravenosos durante los procedimientos quirúrgicos. Sin embargo, cuando se habla específicamente de anestesia intravenosa total (TIVA), el tipo de bomba más utilizado y considerado prácticamente estándar en anestesia es la bomba de jeringa o syringe pump.
 
-Bombas de jeringa
+La bomba de jeringa funciona mediante un mecanismo electromecánico que empuja de manera controlada el émbolo de una jeringa, permitiendo administrar cantidades muy precisas de medicamentos como Propofol, Remifentanilo, Fentanilo o Midazolam. Este sistema es ampliamente utilizado en anestesia debido a que los agentes anestésicos intravenosos requieren una dosificación extremadamente precisa y continua para mantener estabilidad hemodinámica y profundidad anestésica adecuada.
 
-Las bombas de jeringa utilizan una jeringa controlada mecánicamente para suministrar pequeños volúmenes con alta precisión. Son ampliamente utilizadas en anestesia para administrar medicamentos como:
+El funcionamiento de la bomba se basa en un motor eléctrico controlado electrónicamente, el cual desplaza el émbolo de la jeringa a una velocidad programada por el anestesiólogo. La velocidad de desplazamiento determina el flujo del medicamento, normalmente expresado en mililitros por hora (mL/h) o microgramos por kilogramo por minuto (µg/kg/min). Los sistemas modernos permiten programar dosis, velocidad de infusión, bolos automáticos y límites de seguridad.
 
-- Propofol.
-- Fentanilo.
-- Remifentanilo.
-- Vasopresores.
-- Bombas PCA
+En anestesia, las bombas de jeringa son consideradas las más seguras y precisas para la administración de fármacos potentes, ya que permiten trabajar con volúmenes muy pequeños y altas precisiones de flujo. Además, incorporan sistemas de alarma que detectan oclusiones, aire en la línea, finalización del medicamento, batería baja o errores de configuración.
 
-Las bombas PCA (Patient Controlled Analgesia) permiten que el paciente administre dosis controladas de analgésicos dentro de límites programados previamente por el personal médico.
+Desde el punto de vista biomédico, estas bombas representan dispositivos críticos de soporte terapéutico, debido a que una alteración mínima en la velocidad de infusión puede provocar sobredosis, depresión respiratoria, inestabilidad cardiovascular o despertar intraoperatorio. Por esta razón, requieren calibración periódica, mantenimiento preventivo y verificación constante durante su uso clínico.
 
-Bombas TCI
+Actualmente, muchas estaciones de anestesia modernas integran sistemas inteligentes de infusión conocidos como TCI (Target Controlled Infusion), los cuales utilizan modelos farmacocinéticos para calcular automáticamente la dosis necesaria según variables como peso, edad y concentración plasmática objetivo del paciente. Esto permite una administración más precisa y personalizada de anestesia intravenosa.
 
-Las bombas TCI (Target Controlled Infusion) son sistemas avanzados capaces de calcular automáticamente la dosis necesaria para alcanzar concentraciones específicas del medicamento en sangre o tejido. Son utilizadas especialmente en anestesia intravenosa total.
-
-Bombas elastoméricas
-
-Las bombas elastoméricas funcionan mediante presión mecánica generada por un reservorio elástico y son utilizadas principalmente para analgesia postoperatoria e infusiones prolongadas.
+Aunque las bombas de infusión no forman parte directa del circuito respiratorio de la máquina de anestesia, trabajan de manera complementaria con ella y son esenciales en técnicas anestésicas modernas, especialmente en anestesia balanceada y anestesia intravenosa total.
 
 ## Referencias  : 
 
