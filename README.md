@@ -223,6 +223,8 @@ Anestésicos inhalados
 Son administrados mediante la máquina de anestesia en forma de vapor mezclado con gases respiratorios. Se utilizan principalmente para mantener la anestesia general durante el procedimiento quirúrgico.
 Los más utilizados son:
 
+<img width="412" height="346" alt="image" src="https://github.com/user-attachments/assets/58dc0889-3956-49e3-91e5-484ebb3c0c15" />
+
 
 - Sevoflurano.
 - Isoflurano.
