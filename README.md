@@ -62,6 +62,9 @@ Otro subsistema relevante corresponde al circuito respiratorio o sistema de resp
 
 La seguridad constituye uno de los pilares fundamentales en el diseño y operación de las máquinas de anestesia. Por esta razón, estos equipos incluyen múltiples sistemas de alarmas y monitoreo continuo capaces de detectar alteraciones en la presión, fugas de gases, fallos eléctricos, ausencia de oxígeno o problemas en la ventilación mecánica. Además, los procedimientos de mantenimiento preventivo y calibración periódica resultan indispensables para garantizar la confiabilidad operacional del equipo y reducir la probabilidad de eventos adversos. En la actualidad, gran parte de los incidentes asociados con máquinas de anestesia no se relacionan directamente con defectos tecnológicos, sino con errores operacionales o deficiencias en la capacitación del personal clínico y técnico (Sherwin & Eisenkraft, 2020).
 
+<img width="262" height="468" alt="image" src="https://github.com/user-attachments/assets/d9958560-c6c4-459e-8265-d8d928092ffc" />
+
+
 Desde el campo de la ingeniería biomédica, el estudio de las máquinas de anestesia resulta esencial debido a que combina conocimientos de electrónica médica, instrumentación biomédica, neumática hospitalaria, fisiología respiratoria y seguridad clínica. El análisis funcional de estos equipos permite comprender cómo interactúan diferentes subsistemas para mantener las condiciones fisiológicas del paciente durante un procedimiento anestésico. Además, el conocimiento técnico sobre su operación y mantenimiento contribuye significativamente a la gestión tecnológica hospitalaria y a la prevención de fallas críticas en ambientes quirúrgicos.
 
 ## Preguntas en el procedimiento  :
